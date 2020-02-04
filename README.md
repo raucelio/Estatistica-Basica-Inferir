@@ -59,4 +59,8 @@ Estatística IV
 Análise de uma base de dados.
 
 
+# Bibliografia
+
+Aquino Jackson. R para Ciêntistas Sociais. Ilhéus,BA:EDITUS,2014. PDF. 4 Janeiro
+2020. Disponível em http://www.uesc.br/editora/livrosdigitais_20140513/r_cientistas.pdf .
 
