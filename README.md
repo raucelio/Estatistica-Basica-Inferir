@@ -17,7 +17,7 @@ R Módulo I
 R Módulo II
 
 + Apresentar o Conceito de pacote (Packeges).
-+ Instalação de pacotes (readxl, writexl, dplyr)
++ Instalação de pacotes (readxl, writexl, dplyr, sqldf, ggplot2)
 + Leitura e escrita de arquivos textos.
 + Leitura e escrita de arquivos excel.
 + Apresentar o conceito de fator.
