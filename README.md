@@ -20,11 +20,12 @@ R Módulo II
 + Instalação de pacotes (readxl, writexl, dplyr, sqldf, ggplot2)
 + Leitura e escrita de arquivos textos.
 + Leitura e escrita de arquivos excel.
-+ Apresentar o conceito de fator.
++ Apresentar o conceito de matriz.
 + Apresentar o conceito de lista.
 
 R Módulo III
 
++ Apresentar o conceito de fator.
 + Desvio condicionais no R.
 + Iterações no R: Comandos for e while.
 + Uso de SQL no R (sqldf).
