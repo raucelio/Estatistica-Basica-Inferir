@@ -65,3 +65,5 @@ Análise de uma base de dados.
 Aquino Jackson. R para Ciêntistas Sociais. Ilhéus,BA:EDITUS,2014. PDF. 4 Janeiro
 2020. Disponível em http://www.uesc.br/editora/livrosdigitais_20140513/r_cientistas.pdf .
 
+Jelihovschi, Enio. Análise exploratória de dados usando o R.Ilhéus, BA: EDITUS, 2014. PDF. Visitado em 13 de Março de 2020.
+Disponível em http://www.uesc.br/editora/livrosdigitais2/analiseexploratoria_r.pdf
